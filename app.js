@@ -6,5 +6,5 @@ function signUp(){
 
 start.addEventListener('click',signUp);
 
-start.addEventListener('click',windingup);
+start.addEventListener('click',windingup, rebase);
 
