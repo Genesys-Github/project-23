@@ -1,4 +1,8 @@
 # scheduled-page
 Installing the dependencies
 
-New twxt was added
+New text was added
+
+Line was changed 
+
+
